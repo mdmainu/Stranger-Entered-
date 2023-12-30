@@ -1,1 +1,1 @@
-# This is a Stranter Counter App using HTML,CSS, and JavaScript.
+# This is a Stranger Counter App using HTML, CSS, and JavaScript.
